@@ -1,4 +1,4 @@
-# ReMafoX-Feedback
+# Feedback for ReMafoX
 
 Report bugs, request new features or ask for help for the ReMafoX app here.
 
