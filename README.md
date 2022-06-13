@@ -17,4 +17,4 @@ Fill out the sections to help me understand your use case as good as possible so
 
 ### Asking for help
 
-Go to the **"Discussions"** tab, select the category **"Help / FAQ"** and **search** for your question there. If you can't find it, create a **new thread**. If you do find it, make sure to **upvote** it (:+1:) and **comment** with your use case in case yours slightly differs from the authors.
+Go to the **"Discussions"** tab, select the category **"Help / FAQ"** and **search** for your question there. If you can't find it, create a **new thread**. If you do find it, make sure to **upvote** it (via :+1:) and **comment** with your use case in case yours slightly differs from the authors.
