@@ -7,12 +7,12 @@ Report bugs, request new features or ask for help for the ReMafoX app here.
 
 ### Reporting bugs or unexpected behavior
 
-Go to the **"Issues"** tab, press **"New issue"** and select the **"Report a bug"** template or just [click here]([url](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Bug+Report&template=bug_report.md&title=%5BBug%5D+%3Cyour+bug+title%3E)).
+Go to the **"Issues"** tab, press **"New issue"** and select the **"Report a bug"** template or just [click here](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Bug+Report&template=bug_report.md&title=%5BBug%5D+%3Cyour+bug+title%3E).
 Fill out the sections in the template to help me understand your problem as good as possible so I can provide an approprate fix.
 
 ### Requesting new features
 
-Go to the **"Issues"** tab, press **"New issue"** and select the **"Request a feature"** template or just [click here]([url](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Feature+Request&template=feature_request.md&title=%5BFeat%5D+%3Cyour+feature+title%3E)).
+Go to the **"Issues"** tab, press **"New issue"** and select the **"Request a feature"** template or just [click here](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Feature+Request&template=feature_request.md&title=%5BFeat%5D+%3Cyour+feature+title%3E).
 Fill out the sections in the template to help me understand your use case as good as possible so I can provide an appropriate feature design.
 
 ### Asking for help
