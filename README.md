@@ -4,11 +4,11 @@ This repo serves as a **communication platform** for the [ReMafoX app](https://a
 
 Here, you can:
 
-- Find the apps release notes
-- Learn about the future roadmap
-- Report bugs you encountered
-- Request new features you wish for
-- Ask questions on how to use it
+- Find the apps **release notes**
+- Learn about the future **roadmap**
+- **Report bugs** you encountered
+- **Request new features** you wish for
+- **Ask questions** on how to use it
 
 ## Detailed Guide
 
