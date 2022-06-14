@@ -1,12 +1,14 @@
 # ReMafoX
 
-This repo serves as a **communication platform** for the [ReMafoX app](https://apps.apple.com/us/app/remafox-gui-for-bartycrouch/id1605635026). Here, you can:
+This repo serves as a **communication platform** for the [ReMafoX app](https://apps.apple.com/us/app/remafox-gui-for-bartycrouch/id1605635026).
 
-- Find the release notes
-- Learn about the roadmap
-- Report bugs
-- Request new features
-- Ask usage questions
+Here, you can:
+
+- Find the apps release notes
+- Learn about the future roadmap
+- Report bugs you encountered
+- Request new features you wish for
+- Ask questions on how to use it
 
 ## Detailed Guide
 
