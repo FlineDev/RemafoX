@@ -16,7 +16,7 @@ To **learn what's new** with the latest updates, read the release notes [here](h
 
 ### Roadmap
 
-I am an Indie Developer and I want to develop and maintain multiple apps. Some of them are small-scoped one-off app ideas, but this is one of the larger scoped projects with potential for more features. For projects like this, I try to provide **exactly 1 new feature per month** (there's no limit on bug fixes). By voting on bug reports and feature requests (see below), you help me prioritize. You can always find **my current roadmap** of bugs & features I want to work on within **the next 3 months** [here](https://github.com/FlineDev/ReMafoX/milestones?direction=asc&sort=due_date&state=open).
+I am an **Indie Developer** and I want to develop and maintain multiple apps. Some of them are small-scoped one-off app ideas, but this is one of the larger scoped projects with potential for more features. For projects like this, I try to provide **exactly 1 new feature per month** (there's no limit on bug fixes). By voting on bug reports and feature requests (see below), you help me prioritize. You can always find **my current roadmap** of bugs & features I want to work on within **the next 3 months** [here](https://github.com/FlineDev/ReMafoX/milestones?direction=asc&sort=due_date&state=open).
 
 ### Reporting bugs or unexpected behavior
 
