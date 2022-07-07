@@ -1,3 +1,8 @@
+<a href="https://github.com/FlineDev/ReMafoX/releases">
+  <img src="https://img.shields.io/badge/Version-1.0.0%20Beta%201-informational.svg"
+       alt="Version: 1.0.0 Beta 1">
+</a>
+
 # ReMafoX
 
 This repo serves as a **communication platform** for the [ReMafoX app](https://apps.apple.com/us/app/remafox-gui-for-bartycrouch/id1605635026).
