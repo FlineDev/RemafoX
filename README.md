@@ -9,11 +9,11 @@ This repo serves as a **communication platform** for the [ReMafoX app](https://a
 
 Here, you can:
 
-- Find the apps **release notes**
-- Learn about the future **roadmap**
-- **Report bugs** you encountered
-- **Request new features** you wish for
-- **Ask questions** on how to use it
+- Find the apps **[release notes](https://github.com/FlineDev/ReMafoX/releases)**
+- Learn about the future **[roadmap](https://github.com/FlineDev/ReMafoX/milestones?direction=asc&sort=due_date&state=open)**
+- **[Report bugs](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Bug+Report&template=bug_report.md&title=%5BBug%5D+%3Cyour+bug+title%3E)** you encountered
+- **[Request new features](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Feature+Request&template=feature_request.md&title=%5BFeat%5D+%3Cyour+feature+title%3E)** you wish for
+- **[Ask questions](https://github.com/FlineDev/ReMafoX/discussions/new?category=help-faq)** on how to use it
 
 ## Detailed Guide
 
@@ -37,4 +37,4 @@ Fill out the sections to help me understand your use case as good as possible so
 
 ### Asking for help
 
-Go to the **"Discussions"** tab, select the category **"Help / FAQ"** and **search** for your question there. If you can't find it, create a **new thread**. If you do find it, make sure to upvote (via ⬆️) and **comment** with your use case in case yours slightly differs from the authors.
+Go to the **"Discussions"** tab, select the category **"Help / FAQ"** and **search** for your question there. If you can't find it, create a **new thread** or just [click here](https://github.com/FlineDev/ReMafoX/discussions/new?category=help-faq). If you do find it, make sure to upvote (via ⬆️) and **comment** with your use case in case yours slightly differs from the authors.
