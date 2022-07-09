@@ -13,7 +13,9 @@ Here, you can:
 - Learn about the future **[roadmap](https://github.com/FlineDev/ReMafoX/milestones?direction=asc&sort=due_date&state=open)**
 - **[Report bugs](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Bug+Report&template=bug_report.md&title=%5BBug%5D+%3Cyour+bug+title%3E)** you encountered
 - **[Request new features](https://github.com/FlineDev/ReMafoX-Feedback/issues/new?labels=Feature+Request&template=feature_request.md&title=%5BFeat%5D+%3Cyour+feature+title%3E)** you wish for
+- **[Explore & vote](https://github.com/FlineDev/ReMafoX/issues?q=is%3Aissue+sort%3Aupdated+)** on existing bug reports & feature requests
 - **[Ask questions](https://github.com/FlineDev/ReMafoX/discussions/new?category=help-faq)** on how to use it
+- **[Explore existing questions & answers or discuss](https://github.com/FlineDev/ReMafoX/discussions)** the usage of the app with others in the forum
 
 ## Detailed Guide
 
