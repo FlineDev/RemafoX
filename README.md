@@ -5,7 +5,7 @@
 
 # ReMafoX
 
-This repo serves as a **communication platform** for the [ReMafoX app](https://apps.apple.com/us/app/remafox-gui-for-bartycrouch/id1605635026).
+This repo serves as a **communication platform** for the [ReMafoX app](https://apps.apple.com/us/app/remafox-easy-app-localization/id1605635026).
 
 Here, you can:
 
